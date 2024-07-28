@@ -1,3 +1,3 @@
-- Jangan Lupa Insert databasenya di folder biar gak ngulik error2 databasenya
+- Jangan Lupa Insert databasenya di folder database_insert biar gak ngulik error2 databasenya
 - dan juga ini belom saya kasih permission
 - user hanya user admin
